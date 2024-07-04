@@ -6,22 +6,22 @@ Land cover (LC) is the Earth’s surface features; water, soil, vegetation and o
 # Objectives
    * Identify land cover classes from PlanetScope (3m spatial resolution) and Google Satellite imageries.
    * Classify land cover types using Sentinel-1 and Sentinel-2 imagery (10m spatial resolution).
-   * Evaluate models (RF and SVM) performance with accuracy metrics.
+   * Evaluate models' (RF and SVM) performance with accuracy metrics.
    * Determine the most important features for land cover classification.
    * Compare land cover results with original Sentinel-2 imagery.
 
 # Study Area
-This study area is Hadejia Local Government Area (LGA) in Jigawa state, North-west Nigeria. The area is mainly agrarian, dominated by cropland.
+This study area is Hadejia Local Government Area (LGA) in Jigawa state, North-west Nigeria. The area is mainly agricultural, dominated by cropland.
 
 ![Study Area Map](Maps_Charts/Study_Area_Hadejia.png "Map of Hadejia LGA")
 
 # Methodology
 
 ## Machine Learning Algorithms
-Random Forests (RF) and Support Vector Machine (SVM) were selected for this project because of their better performance in land cover classificayions as proved in the literature (Abdi, 2019; Khatami et al., 2016; Maxwell et al., 2018; Shih et al., 2018)
+Random Forests (RF) and Support Vector Machine (SVM) were selected for this project because of their better performance in land cover classifications as proved in the literature (Abdi, 2019; Khatami et al., 2016; Maxwell et al., 2018; Shih et al., 2018)
 
 ### Random Forests (RF)
-Random Forest (RF) algorithm is an ensemble classifier and advanced version of a Decision Tree (DT) that is made up of a collection of tree-structured classifiers. A tree is grown using the training set and the most popular class is chosen for each unknown (Breiman, 2001). RF algorithm selects a random subset of variables or predictors at each split (Liaw, 2002). RF algorithm requires two hyperparameters before it starts to separate data, the number of trees to make an ensemble and the number of features at each split. It is also a non-parametric classifier - a statistical assumption on data distribution. RF has a low computational requirement, can estimate the importance of variables, and overcomes the shortcoming of over-fitting that is present in DT because it always converges (Pal, 2005; Rodriguez-Galiano, 2012). 
+The Random Forest (RF) algorithm is an ensemble classifier and an advanced version of a Decision Tree (DT) comprising a collection of tree-structured classifiers. A tree is grown using the training set and the most popular class is chosen for each unknown (Breiman, 2001). RF algorithm selects a random subset of variables or predictors at each split (Liaw, 2002). RF algorithm requires two hyperparameters before it starts to separate data, the number of trees to make an ensemble and the number of features at each split. It is also a non-parametric classifier - a statistical assumption on data distribution. RF has a low computational requirement, can estimate the importance of variables, and overcomes the shortcomings of the over-fitting present in DT because it always converges (Pal, 2005; Rodriguez-Galiano, 2012). 
 
 ![Random Forest Structure](Maps_Charts/RF_Structure.png "Image Source: Hemashreekilari, 2023")
 
@@ -44,7 +44,7 @@ https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-
 ## Land Cover Maps
 
 
-![Insets from Land Cover Layers](Maps_Charts\Insets_from_Land_Cover_Layers.png "Insets from Land Cover Layers")
+![Insets from Land Cover Layers](Maps_Charts/Insets_from_Land_Cover_Layers.png "Insets from Land Cover Layers")
 
 ## Accuracy Assessment
 
