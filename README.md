@@ -26,7 +26,7 @@ Random Forest (RF) algorithm is an ensemble classifier and advanced version of a
 ![Random Forest Structure](Maps_Charts/RF_Structure.png "Image Source: Hemashreekilari, 2023")
 
 ### Support Vector Machine (SVM)
-The Support Vector Machines (SVM) focuses on the training samples closest to the optimal boundary between classes, known as support vectors (). SVM aims to maximize the margin between these support vectors. Although SVM is a binary classifier, it can handle multiple classes by applying the classifier to each class combination, increasing processing time as the number of classes grows (). The parameter of SVM include Cost or slack parameter (C),  Kernel type, and Kernel-dependent parameters - Polynomial: (polynomial order (p)) and Radial basis: (gamma (γ)) (Cortes and Vapnik, 1995; Maxwell et al., 2018).
+Support Vector Machines (SVM) focuses on the training samples closest to the optimal boundary between classes, known as support vectors (). SVM aims to maximize the margin between these support vectors. Although SVM is a binary classifier, it can handle multiple classes by applying the classifier to each class combination, increasing processing time as the number of classes grows (). The parameters of SVM include Cost or slack parameter (C),  Kernel type, and Kernel-dependent parameters - Polynomial: (polynomial order (p)) and Radial basis: (gamma (γ)) (Cortes and Vapnik, 1995; Maxwell et al., 2018).
 
 ![Support Vector Machine Structure](Maps_Charts/SVM_Structure.png "Image Source: Datatron")
 
@@ -35,6 +35,11 @@ The Support Vector Machines (SVM) focuses on the training samples closest to the
 
 
 # Results
+
+https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-Algorithms-and-Multi-Source-Satellite-Images/assets/81117834/3d8b6c33-6d02-4211-a974-ef3a08e1c667
+
+
+
 
 ## Land Cover Maps
 
