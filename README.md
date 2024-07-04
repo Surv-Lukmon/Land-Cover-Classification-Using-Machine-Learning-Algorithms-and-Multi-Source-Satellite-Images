@@ -36,8 +36,8 @@ Support Vector Machines (SVM) focuses on the training samples closest to the opt
 
 # Results
 
-https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-Algorithms-and-Multi-Source-Satellite-Images/assets/81117834/3d8b6c33-6d02-4211-a974-ef3a08e1c667
 
+https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-Algorithms-and-Multi-Source-Satellite-Images/assets/81117834/d38e1685-3d84-40f2-932b-b7ed8d12c06e
 
 
 
