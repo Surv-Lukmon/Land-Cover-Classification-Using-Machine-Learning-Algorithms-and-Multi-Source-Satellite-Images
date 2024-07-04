@@ -39,7 +39,7 @@ The Support Vector Machines (SVM) focuses on the training samples closest to the
 ## Land Cover Maps
 
 
-![Insets from Land Cover Layers](Maps_Charts\Insets_from_Land_Cover_Layers.png "Insets from Land Cover Layers")
+![Insets from Land Cover Layers](Maps_Charts/Insets_from_Land_Cover_Layers.png "Insets from Land Cover Layers")
 
 ## Accuracy Assessment
 
