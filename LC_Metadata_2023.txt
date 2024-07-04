@@ -1,0 +1,30 @@
+LAND COVER CLASSES
+
+S_N	Class			ID3
+1	Bare soil		1
+2	Built-up		2
+3	Cropland		3
+4	Tree & Grass		4	
+5	Water & Wetland	5		
+
+
+LAND COVER NOMENCLATURES
+
+S/N	Land cover		Description
+1	Bare soil		Barren land without buildings or vegetations.
+2	Built-up		Buildings and roads
+3	Cropland 	 	Agricultural land that is cultivated or not cultivated
+4	Tree and Grass		Tree, shrubs, and grass
+5	Water & Wetland		Rivers, streams, lakes, and wetlands.
+
+
+
+IMAGES USED FOR CLASSIFICATION
+
+Sentinel-2: July 2023
+
+
+PlanetScope: July 2023
+
+
+BANDS USED FOR CLASSIFICATION
