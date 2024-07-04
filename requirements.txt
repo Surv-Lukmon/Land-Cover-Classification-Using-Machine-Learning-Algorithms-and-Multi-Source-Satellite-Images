@@ -3,11 +3,8 @@ ipython
 ipykernel
 earthengine-api
 geemap
-scikit-learn
-xgboost
 pandas
 geopandas
 numpy
-seaborn
 folium
 matplotlib
