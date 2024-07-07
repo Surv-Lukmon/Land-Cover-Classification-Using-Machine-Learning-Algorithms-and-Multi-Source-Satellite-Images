@@ -44,22 +44,26 @@ https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-
 ## Land Cover Maps
 
 
-![Insets from Land Cover Layers](Maps_Charts/Insets_from_Land_Cover_Layers.png "Insets from Land Cover Layers")
+![Insets from Land Cover Layers](Maps_Charts/Results.png "Insets from Land Cover Layers")
 
 ## Accuracy Assessment
 
-![Comined Error/Confusion Matrix]()
+![Comined Error/Confusion Matrix](Maps_Charts/Combined_Error_Matrix.png "Error/Confusion Matrix for RF and SVM")
 
 
 # References / Resources
 
 Abdi, A. M. (2019). Land cover and land use classification performance of machine learning algorithms in a boreal landscape using Sentinel-2 data. GIScience & Remote Sensing, 57(1), 1–20. https://doi.org/10.1080/15481603.2019.1650447
 
+Breiman, L. Random Forests. Machine Learning 45, 5–32 (2001). https://doi.org/10.1023/A:1010933404324
+
 Cortes, C., Vapnik, V. Support-vector networks. Mach Learn 20, 273–297 (1995). https://doi.org/10.1007/BF00994018
 
 Datatron (n.d). What is a Support Vector Machine?. https://datatron.com/what-is-a-support-vector-machine/
 
 Different methods for masking clouds of Sentinel-2 images in GEE: https://gis.stackexchange.com/questions/445556/different-methods-for-masking-clouds-of-sentinel-2-images-in-gee Accesse: 29 May 2024.
+
+Eisavi, V., Homayouni, S., Yazdi, A.M. et al. Land cover mapping based on random forest classification of multitemporal spectral and thermal images. Environ Monit Assess 187, 291 (2015). https://doi.org/10.1007/s10661-015-4489-3
 
 Geemap. 103 split control: Creating a split-panel map. https://geemap.org/notebooks/103_split_control/
 
@@ -77,8 +81,11 @@ Minal S. A. and Patil K.A. (2017). Land Use/ Land Cover Change Detection Using R
 
 Pal, M. (2005). Random Forest Classifier for Remote Sensing Classification. International Journal of Remote Sensing 26 (1), 217–222. doi:10.1080/01431160412331269698.
 
+Phan, T. N., Verena K., a& Lukas W. Lehnert (2020). "Land Cover Classification using Google Earth Engine and Random Forest Classifier—The Role of Image Composition" Remote Sensing 12, no. 15: 2411. https://doi.org/10.3390/rs12152411
+
 Sentinel Hub .Sentinel-2. https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel/sentinel-2/. Accesse: 29 May 2024.
 
 Shih H.-C., Stow, D.A, & Tsai, Y.H. (2018). Guidance on and comparison of machine learning classifiers for Landsat-based land cover and land use mapping. International Journal of Remote Sensing. DOI: https://doi.org/10.1080/01431161.2018.1524179
 
 Singh, S.K., Srivastava, P.K., Gupta, M., Thakur, J.K., & Mukherjee, S. (2014). Appraisal of land use/land cover of mangrove forest ecosystem using support vector machine. Environ Earth Sci 71, 2245–2255 (2014). https://doi.org/10.1007/s12665-013-2628-0
+

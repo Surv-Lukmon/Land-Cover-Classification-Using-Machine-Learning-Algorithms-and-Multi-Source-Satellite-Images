@@ -8,3 +8,4 @@ geopandas
 numpy
 folium
 matplotlib
+scikit-learn
