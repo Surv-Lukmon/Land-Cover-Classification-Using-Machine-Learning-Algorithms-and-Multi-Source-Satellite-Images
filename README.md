@@ -43,12 +43,11 @@ https://github.com/Surv-Lukmon/Land-Cover-Classification-Using-Machine-Learning-
 
 ## Land Cover Maps
 
-
 ![Insets from Land Cover Layers](Maps_Charts/Results.png "Insets from Land Cover Layers")
 
 ## Accuracy Assessment
 
-![Comined Error/Confusion Matrix](Maps_Charts/Combined_Error_Matrix.png "Error/Confusion Matrix for RF and SVM")
+![Combined Error Matrix](Maps_Charts/Combined_Error_Matrix.png "Error Matrix for RF and SVM")
 
 
 # References / Resources
